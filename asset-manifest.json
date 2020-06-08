@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c61b423a.chunk.css",
-    "main.js": "/static/js/main.9275c39a.chunk.js",
-    "main.js.map": "/static/js/main.9275c39a.chunk.js.map",
+    "main.js": "/static/js/main.27b71681.chunk.js",
+    "main.js.map": "/static/js/main.27b71681.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.304e5e31.js",
     "runtime-main.js.map": "/static/js/runtime-main.304e5e31.js.map",
     "static/js/2.c5ae3304.chunk.js": "/static/js/2.c5ae3304.chunk.js",
     "static/js/2.c5ae3304.chunk.js.map": "/static/js/2.c5ae3304.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.79ccbed8aaed4af4799ce511b8155bea.js": "/precache-manifest.79ccbed8aaed4af4799ce511b8155bea.js",
+    "precache-manifest.88c94cc446daa5582bbb3a3ce7ed3902.js": "/precache-manifest.88c94cc446daa5582bbb3a3ce7ed3902.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c61b423a.chunk.css.map": "/static/css/main.c61b423a.chunk.css.map",
     "static/media/index.css": "/static/media/PRODUCT SANS REGULAR.eae9c18c.TTF",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.304e5e31.js",
     "static/js/2.c5ae3304.chunk.js",
     "static/css/main.c61b423a.chunk.css",
-    "static/js/main.9275c39a.chunk.js"
+    "static/js/main.27b71681.chunk.js"
   ]
 }
